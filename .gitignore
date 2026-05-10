@@ -1,0 +1,16 @@
+# Windows
+desktop.ini
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Auto-sync watcher
+auto-sync.log
+.watcher.pid
+
+# Claude Code local config
+.claude/
+
+# Fusion 360 backups
+*.bak
+*.f3d.lock
