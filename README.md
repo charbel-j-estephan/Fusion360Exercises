@@ -1,6 +1,6 @@
 # Fusion 360 Exercises
 
-42 modeling exercises in Autodesk Fusion 360.
+50 modeling exercises in Autodesk Fusion 360.
 
 This repo auto-syncs to GitHub: a background `auto-sync.ps1` watcher commits and pushes any change within ~5 seconds of the last save.
 
